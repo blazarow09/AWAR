@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWAR.Api", "AWAR.Api\AWAR.Api.csproj", "{9A51C6A8-9ACE-490C-9217-B9EEA493E48E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWAR.Data", "..\AWAR.Data\AWAR.Data.csproj", "{E91DA633-FC74-483C-A4DF-5677A1E6284E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A51C6A8-9ACE-490C-9217-B9EEA493E48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A51C6A8-9ACE-490C-9217-B9EEA493E48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A51C6A8-9ACE-490C-9217-B9EEA493E48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A51C6A8-9ACE-490C-9217-B9EEA493E48E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E91DA633-FC74-483C-A4DF-5677A1E6284E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91DA633-FC74-483C-A4DF-5677A1E6284E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91DA633-FC74-483C-A4DF-5677A1E6284E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91DA633-FC74-483C-A4DF-5677A1E6284E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04A32A93-6758-490E-8635-4ACD4EADF634}
+	EndGlobalSection
+EndGlobal
